@@ -1,6 +1,6 @@
 # Inventio Max
 Sistema de inventario y ventas profesional
-Link: http://evilnapsis.com/product/inventio-max/
+Link:
 
 ## Modulos
 
